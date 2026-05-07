@@ -1,0 +1,29 @@
+#mrJones {
+    color: burlywood;
+}
+
+h1, h2, h3, h4 {  
+    color: green;
+    font-size: 30px;
+    /* margin: 0;  */
+    background-color: purple;
+}
+
+h1 {
+    color: coral;
+    color: rgba(221, 75, 53, 0.664);
+}
+            
+.uppercase {
+    text-transform: uppercase;
+    color: hotpink;
+    background-color: black;
+}
+
+.important {
+    color: orchid;
+}
+
+#the-one {
+    color: blue;
+}
